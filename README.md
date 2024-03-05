@@ -222,7 +222,7 @@ Reads Braille input by screen touch for iPhone.
 
 
 - Vibration  
-Vibrates when the designated Braille is touched. This function allows the visually impaired to confirm the touch position.
+Vibrates when the designated Braille dots is touched. This function allows the visually impaired to confirm the touch position.
 
   | # | properties | description | default |
   | :-: | :--- | :--- | :--- |
@@ -243,7 +243,7 @@ Vibrates when the designated Braille is touched. This function allows the visual
 
 
 - Guide Spot  
-Displays a spot at the specified Braille location. This function is designed to help sighted people users learn finger Braille.
+Displays a spot at the specified Braille dots location. This function is designed to help sighted people users learn finger Braille.
 
   | # | properties | description | default |
   | :-: | :--- | :--- | :--- |
@@ -282,11 +282,11 @@ Displays a spot at the specified Braille location. This function is designed to 
 
 ## Braille Recognition Details
 
-On one side of the screen, the Braille is recognized as follows. The same method is used on the other side.
+On one side of the screen, the Braille dots is recognized as follows. The same method is used on the other side.
 
 
 - 1-Point Touch  
-Recognizes Braille at the touched position as guided.
+Recognizes Braille dots at the touched position as guided.
 
 
 - 2-Points Touch  
